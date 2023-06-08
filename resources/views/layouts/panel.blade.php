@@ -53,7 +53,7 @@
                                             <div class="col-md-9 col-sm-9 col-xs-8">
                                                 <nav class="edupit_menu">
                                                     <ul class="sub-menu">
-                                                        <li class="menu-item-has-children">
+                                                        <li class="menu-item">
                                                             <a href="#">Inicio</a>
                                                             {{-- <ul class="sub-menu">
                                                                 <li><a href="index.html">Home One</a></li>
