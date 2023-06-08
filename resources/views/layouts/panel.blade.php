@@ -62,26 +62,26 @@
                                                             </ul> --}}
                                                         </li>
                                                         <li class="menu-item-has-children">
-                                                            <a href="#">About</a>
+                                                            <a href="#">Nosotros</a>
                                                             <ul class="sub-menu">
-                                                                <li><a href="about.html">About</a></li>
-                                                                <li><a href="about-2.html">About Style 02</a></li>
-                                                                <li><a href="about-3.html">About Style 03</a></li>
+                                                                <li><a href="about.html">Sobre Nosotros</a></li>
+                                                                <li><a href="about-2.html">Equipo de Trabajo</a></li>
+                                                                {{-- <li><a href="about-3.html">About Style 03</a></li> --}}
                                                             </ul>
                                                         </li>
                                                         <li class="menu-item-has-children">
-                                                            <a href="#">Courses</a>
+                                                            <a href="#">Servicios</a>
                                                             <ul class="sub-menu">
-                                                                <li><a href="courses.html">Courses</a></li>
-                                                                <li><a href="instructor-registration.html">Instructor
-                                                                        Registration</a></li>
-                                                                <li><a href="student-registration.html">Student
-                                                                        Registration</a></li>
-                                                                <li><a href="dashboard.html">Dashboard</a></li>
+                                                                <li><a href="courses.html">Cursos</a></li>
+                                                                {{-- <li><a href="instructor-registration.html">Cursos
+                                                                        </a></li> --}}
+                                                                <li><a href="student-registration.html">Asesorias
+                                                                        </a></li>
+                                                                <li><a href="dashboard.html">Desarrollo de Proyectos</a></li>
                                                             </ul>
                                                         </li>
                                                         <li class="menu-item-has-children">
-                                                            <a href="#">Academics</a>
+                                                            <a href="#">Proyectos</a>
                                                             <ul class="sub-menu">
                                                                 <li><a href="academics.html">Academics</a></li>
                                                                 <li class="menu-item-has-children">
