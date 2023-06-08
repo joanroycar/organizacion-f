@@ -80,9 +80,9 @@
                                                                 <li><a href="dashboard.html">Desarrollo de Proyectos</a></li>
                                                             </ul>
                                                         </li>
-                                                        <li class="menu-item-has-children">
+                                                        <li class="">
                                                             <a href="#">Proyectos</a>
-                                                            <ul class="sub-menu">
+                                                            {{-- <ul class="sub-menu">
                                                                 <li><a href="academics.html">Academics</a></li>
                                                                 <li class="menu-item-has-children">
                                                                     <a href="#">Admission</a>
@@ -173,9 +173,9 @@
                                                                     </ul>
                                                                 </li>
                                                                 <li><a href="faq.html">FAQ’S</a></li>
-                                                            </ul>
+                                                            </ul> --}}
                                                         </li>
-                                                        <li class="menu-item-has-children">
+                                                        {{-- <li class="menu-item-has-children">
                                                             <a href="#">Blog</a>
                                                             <ul class="sub-menu">
                                                                 <li><a href="blog.html">Blog</a></li>
@@ -188,9 +188,9 @@
                                                                 <li><a href="blog-right-2column.html">Blog Right
                                                                         2Column</a></li>
                                                             </ul>
-                                                        </li>
-                                                        <li class="menu-item-has-children">
-                                                            <a href="#">Contact</a>
+                                                        </li> --}}
+                                                        {{-- <li class="">
+                                                            <a href="#">Contactanos</a>
                                                             <ul class="sub-menu">
                                                                 <li><a href="contact.html">Contact</a></li>
                                                                 <li><a href="contact-2.html">Contact Style 02</a></li>
@@ -198,10 +198,10 @@
                                                                 <li><a href="contact-4.html">Contact Style 04</a></li>
                                                                 <li><a href="contact-5.html">Contact Style 05</a></li>
                                                             </ul>
-                                                        </li>
+                                                        </li> --}}
                                                     </ul>
                                                     <div class="donate-btn-header">
-                                                        <a class="dtbtn" href="#">Get A Quote</a>
+                                                        <a class="dtbtn" href="#">Contáctanos</a>
                                                     </div>
                                                 </nav>
                                             </div>
