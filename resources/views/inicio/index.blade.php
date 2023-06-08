@@ -32,7 +32,7 @@
                                     </div>
                                     <div class="witr_slider_thumb em_slider_s2_image">
                                         <div class="witr_slider_thumb_inner">
-                                            <img src="/images/right-img.png" alt="">
+                                            <img src="/images/program/hour.png" alt="" style="width: 800px;height:500px;float:left">
                                         </div>
                                     </div>
                                 </div>
