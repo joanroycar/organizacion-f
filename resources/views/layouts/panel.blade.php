@@ -40,7 +40,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="mobile_menu_logo text-center">
-                        <a href="index.html" title="edupit">
+                        <a href="{{route('inicio.index')}}" title="edupit">
                             <img src="/images/logo2.png" alt="edupit">
                         </a>
                     </div>
@@ -54,32 +54,32 @@
         <div class="menu_area mobile-menu">
             <nav class="edupit_menu">
                 <ul class="sub-menu">
-                    <li class="menu-item-has-children">
-                        <a href="#">Home</a>
-                        <ul class="sub-menu">
+                    <li class="">
+                        <a href="{{route('inicio.index')}}">Inicio</a>
+                        {{-- <ul class="sub-menu">
                             <li><a href="index.html">Home One</a></li>
                             <li><a href="index-2.html">Home Two</a></li>
                             <li><a href="index-3.html">Landing Page</a></li>
-                        </ul>
+                        </ul> --}}
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="#">About</a>
+                        <a href="#">Nosotros</a>
                         <ul class="sub-menu">
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="about-2.html">About Style 02</a></li>
-                            <li><a href="about-3.html">About Style 03</a></li>
+                            <li><a href="{{route('nosotros.index')}}">Sobre Nosotros</a></li>
+                            <li><a href="about-2.html">Equipo de Trabajo</a></li>
+                            {{-- <li><a href="about-3.html">About Style 03</a></li> --}}
                         </ul>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="#">Courses</a>
+                        <a href="#">Servicios</a>
                         <ul class="sub-menu">
-                            <li><a href="courses.html">Courses</a></li>
-                            <li><a href="instructor-registration.html">Instructor Registration</a></li>
-                            <li><a href="student-registration.html">Student Registration</a></li>
-                            <li><a href="dashboard.html">Dashboard</a></li>
+                            <li><a href="courses.html">Cursos</a></li>
+                            <li><a href="instructor-registration.html">Asesorias</a></li>
+                            <li><a href="student-registration.html">Desarrollo de Proyectos</a></li>
+                            {{-- <li><a href="dashboard.html">Dashboard</a></li> --}}
                         </ul>
                     </li>
-                    <li class="menu-item-has-children">
+                    {{-- <li class="menu-item-has-children">
                         <a href="#">Academics</a>
                         <ul class="sub-menu">
                             <li><a href="academics.html">Academics</a></li>
@@ -150,26 +150,30 @@
                             </li>
                             <li><a href="faq.html">FAQ’S</a></li>
                         </ul>
-                    </li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Blog</a>
-                        <ul class="sub-menu">
-                            <li><a href="blog.html">Blog</a></li>
-                            <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
+                    </li> --}}
+                    <li class="">
+                        <a href="#">Proyectos</a>
+                        {{-- <ul class="sub-menu">
+                            <li><a href="blog.html">Asesorias</a></li>
+                            <li><a href="blog-left-sidebar.html">Desarrollo de Proyectos</a></li>
                             <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
                             <li><a href="blog-left-2column.html">Blog Left 2Column</a></li>
                             <li><a href="blog-right-2column.html">Blog Right 2Column</a></li>
-                        </ul>
+                        </ul> --}}
                     </li>
-                    <li class="menu-item-has-children">
-                        <a href="#">Contact</a>
-                        <ul class="sub-menu">
+
+
+
+
+                    <li class="">
+                        <a href="#">Contáctanos</a>
+                        {{-- <ul class="sub-menu">
                             <li><a href="contact.html">Contact</a></li>
                             <li><a href="contact-2.html">Contact Style 02</a></li>
                             <li><a href="contact-3.html">Contact Style 03</a></li>
                             <li><a href="contact-4.html">Contact Style 04</a></li>
                             <li><a href="contact-5.html">Contact Style 05</a></li>
-                        </ul>
+                        </ul> --}}
                     </li>
                 </ul>
             </nav>

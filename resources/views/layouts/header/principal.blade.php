@@ -21,7 +21,7 @@
                                     <nav class="edupit_menu">
                                         <ul class="sub-menu">
                                             <li class="menu-item">
-                                                <a href="#">Inicio</a>
+                                                <a href="{{route('inicio.index')}}">Inicio</a>
                                                 {{-- <ul class="sub-menu">
                                                     <li><a href="index.html">Home One</a></li>
                                                     <li><a href="index-2.html">Home Two</a></li>
@@ -31,7 +31,7 @@
                                             <li class="menu-item-has-children">
                                                 <a href="#">Nosotros</a>
                                                 <ul class="sub-menu">
-                                                    <li><a href="about.html">Sobre Nosotros</a></li>
+                                                    <li><a href="{{route('nosotros.index')}}">Sobre Nosotros</a></li>
                                                     <li><a href="about-2.html">Equipo de Trabajo</a></li>
                                                     {{-- <li><a href="about-3.html">About Style 03</a></li> --}}
                                                 </ul>
