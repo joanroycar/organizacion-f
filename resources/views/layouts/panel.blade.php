@@ -54,12 +54,12 @@
                                                 <nav class="edupit_menu">
                                                     <ul class="sub-menu">
                                                         <li class="menu-item-has-children">
-                                                            <a href="#">Home</a>
-                                                            <ul class="sub-menu">
+                                                            <a href="#">Inicio</a>
+                                                            {{-- <ul class="sub-menu">
                                                                 <li><a href="index.html">Home One</a></li>
                                                                 <li><a href="index-2.html">Home Two</a></li>
                                                                 <li><a href="index-3.html">Landing Page</a></li>
-                                                            </ul>
+                                                            </ul> --}}
                                                         </li>
                                                         <li class="menu-item-has-children">
                                                             <a href="#">About</a>
