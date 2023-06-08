@@ -21,14 +21,11 @@
 </head>
 
 <body>
-    <div class="em40_header_area_main">
+    <div class="em40_header_area_main" >
         <!-- HEADER TOP AREA -->
-        <div class="edupit-header-top   ">
+        <div class="edupit-header-top">
             @include('layouts.header.topArea')
         </div>
-
-
-
 
         <div class="tx_top2_relative">
            @include('layouts.header.principal')
