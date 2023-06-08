@@ -13,10 +13,11 @@
                         <div class="witr_ds_slider_content witr_slick_content">
                             <div class=" witr_ds_content witr_slick_height text-left">
                                 <div class="witr_ds_content_inner witr_containers">
-                                    <h2>Education Is the </h2>
-                                    <h3>Backbone of the Nation.</h3>
-                                    <p>Get the most of reduction in your team’s operating creates<br> amazing UI/UX
-                                        experiences.</p>
+                                    <h2>Asesorias y Desarrollo </h2> 
+                                    {{-- Mejores soluciones para su negocio --}}
+                                    <h3>De Proyectos.</h3>
+                                    <p>Capacitate y asesorate con los mejores .<br> Desarrolla ese proyecto que tanto anhelas !!!
+                                        .</p>
                                     <div class="witr_slicks_title">
                                         <h4>EDUPIT</h4>
                                     </div>
@@ -24,8 +25,8 @@
                                     <div class="slider_btn">
                                         <div class="witr_btn_style">
                                             <div class="witr_btn_sinner">
-                                                <a class="witr_btn" href="#">START TRIAL</a>
-                                                <a class="witr_btn active recpwit" href="#">VIEW COURSES</a>
+                                                <a class="witr_btn" href="#">Conocenos</a>
+                                                <a class="witr_btn active recpwit" href="#">Nuestros servicios</a>
                                             </div>
                                         </div>
                                     </div>
